@@ -32,7 +32,7 @@
   <param name = "laser_min_range" value = "-1"/>
   <param name = "laser_max_range" value = "-1"/> 
    <param name = "laser_max_beams" value = "30"/> 
-  <param name = "laser_z_hit" value = "1.5"/>
+  <param name = "laser_z_hit" value = "0.5"/>
   <param name = "laser_z_rand" value = "0.5"/>
   
    <!-- Odometry Parameters -->
